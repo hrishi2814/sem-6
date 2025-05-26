@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"ba2da7b16c609ed2","type":"file","file":"DSBDA/unit 5/Clustering.md","x":-272,"y":-102,"width":400,"height":400,"color":"4"},
+		{"id":"4f91fa5948987e25","type":"file","file":"Pasted image 20250525151019.png","x":-600,"y":520,"width":400,"height":322},
+		{"id":"0098eadad0504267","type":"file","file":"DSBDA/unit 5/types of clustering.md","x":0,"y":480,"width":586,"height":720,"color":"4"},
+		{"id":"3ab69ef209d8ab7f","type":"file","file":"DSBDA/unit 5/K-means clustering.md","x":-1920,"y":1539,"width":834,"height":3181,"color":"4"},
+		{"id":"b4c356006b5a1684","type":"file","file":"DSBDA/unit 5/Hierarchical Clustering.md","x":-566,"y":1539,"width":733,"height":2981,"color":"3"},
+		{"id":"830bbedd1e74391b","type":"file","file":"DSBDA/unit 5/Density based clustering.md","x":293,"y":1539,"width":987,"height":2741,"color":"4"},
+		{"id":"b2d939822546f3d3","type":"file","file":"DSBDA/unit 5/Text processing.md","x":2960,"y":6,"width":943,"height":874,"color":"4"},
+		{"id":"84d88d28c78b301b","type":"file","file":"DSBDA/unit 5/TF IDF.md","x":2700,"y":1431,"width":780,"height":2169,"color":"4"},
+		{"id":"9eaa43b5c57040ea","type":"text","text":"# Model Validation Techniques","x":-817,"y":5440,"width":537,"height":200,"color":"4"},
+		{"id":"b5ad1a4618344a0f","type":"file","file":"DSBDA/unit 5/K-fold Cross Validation.md","x":-817,"y":5945,"width":697,"height":1248,"color":"4"},
+		{"id":"af1d873f8dcbe689","type":"file","file":"DSBDA/unit 5/Holdout Method.md","x":40,"y":5945,"width":1000,"height":1975,"color":"4"},
+		{"id":"94a98045c508878b","type":"file","file":"DSBDA/unit 5/Time series analysis.md","x":-3520,"y":196,"width":1000,"height":2320,"color":"4"},
+		{"id":"3f115fbb5dee8218","type":"file","file":"DSBDA/unit 5/Confusion Matrix.md","x":4480,"y":366,"width":879,"height":2544,"color":"4"},
+		{"id":"502ac957164e568b","type":"file","file":"DSBDA/unit 5/AUC-ROC curve.md","x":4295,"y":3474,"width":1250,"height":2166,"color":"4"},
+		{"id":"61f79987a89f573d","type":"file","file":"DSBDA/unit 5/Random Subsampling.md","x":-2316,"y":5946,"width":813,"height":2495,"color":"4"}
+	],
+	"edges":[
+		{"id":"34e810f01d569030","fromNode":"ba2da7b16c609ed2","fromSide":"bottom","toNode":"4f91fa5948987e25","toSide":"top"},
+		{"id":"875ddda57ea1c9bf","fromNode":"ba2da7b16c609ed2","fromSide":"bottom","toNode":"0098eadad0504267","toSide":"top"},
+		{"id":"5f4f427408aaf4ea","fromNode":"0098eadad0504267","fromSide":"bottom","toNode":"3ab69ef209d8ab7f","toSide":"top"},
+		{"id":"fea2c141e7d816e5","fromNode":"0098eadad0504267","fromSide":"bottom","toNode":"b4c356006b5a1684","toSide":"top"},
+		{"id":"5a57dce7945f1b30","fromNode":"0098eadad0504267","fromSide":"bottom","toNode":"830bbedd1e74391b","toSide":"top"},
+		{"id":"503093887a8e3a2d","fromNode":"b2d939822546f3d3","fromSide":"bottom","toNode":"84d88d28c78b301b","toSide":"top"},
+		{"id":"8a9b975b8ff62fea","fromNode":"3f115fbb5dee8218","fromSide":"bottom","toNode":"502ac957164e568b","toSide":"top"},
+		{"id":"64a043c1acece287","fromNode":"9eaa43b5c57040ea","fromSide":"bottom","toNode":"61f79987a89f573d","toSide":"top"},
+		{"id":"ae11875ce62be6f8","fromNode":"9eaa43b5c57040ea","fromSide":"bottom","toNode":"b5ad1a4618344a0f","toSide":"top"},
+		{"id":"6681db84d37a9697","fromNode":"9eaa43b5c57040ea","fromSide":"bottom","toNode":"af1d873f8dcbe689","toSide":"top"}
+	]
+}

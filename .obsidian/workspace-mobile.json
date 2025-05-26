@@ -11,15 +11,67 @@
             "id": "b3c2ffc312bc7153",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "WT/unit 3/servlet - database.md",
-                "mode": "preview",
-                "source": false
+                "file": "DSBDA/unit 6/unit 6.canvas",
+                "viewState": {
+                  "x": 1099.769253471939,
+                  "y": 252.5853426567321,
+                  "zoom": -4
+                }
               },
-              "icon": "lucide-file",
-              "title": "servlet - database"
-            }
+              "icon": "lucide-layout-dashboard",
+              "title": "unit 6"
+            },
+            "group": "3fd129dfde0e626c"
+          }
+        ]
+      },
+      {
+        "id": "34a73ce47c80075f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb4ca86df94c1268",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DSBDA/unit 6/unit 6.canvas",
+                "viewState": {
+                  "x": 1719,
+                  "y": -260,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "unit 6"
+            },
+            "group": "3fd129dfde0e626c"
+          }
+        ]
+      },
+      {
+        "id": "60f0db3a2279dba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c90f1dbeb6942ad",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DSBDA/unit 6/unit 6.canvas",
+                "viewState": {
+                  "x": 1719,
+                  "y": -260,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "unit 6"
+            },
+            "group": "3fd129dfde0e626c"
           }
         ]
       }
@@ -98,7 +150,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "WT/unit 3/servlet - database.md",
+            "file": "AI/DFS BFS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,18 +207,47 @@
   },
   "active": "b3c2ffc312bc7153",
   "lastOpenFiles": [
-    "2025-05-04.md",
-    "WT/unit 3/servlet.md",
-    "WT/unit 4/JSP.md",
-    "WT/unit 4/struts.md",
-    "AI/selection sort.md",
-    "AI/n-queens.md",
-    "AI/expert system.md",
-    "AI/DFS BFS.md",
-    "AI/chatbot.md",
-    "WT/unit 3/AJAX.md",
-    "Unit 2.md",
-    "AI.md",
-    "WT.md"
+    "DSBDA/unit 5/unit 5.canvas",
+    "DSBDA/unit 5/Untitled.md",
+    "DSBDA/unit 5/TF IDF.md",
+    "DSBDA/unit 5/Text processing.md",
+    "DSBDA/unit 4/unit 4.canvas",
+    "DSBDA/unit 3/Key Roles in DA.md",
+    "DSBDA/unit 6/unit 6.canvas",
+    "DSBDA/unit 3/stakeholders bs.md",
+    "DSBDA/unit 3/Data prep, model planning,building.md",
+    "DSBDA/unit 6/Hadoop.canvas",
+    "Pasted image 20250525181713.png",
+    "Pasted image 20250525182137.png",
+    "Pasted image 20250525182258.png",
+    "DSBDA/unit 6/question answer - apache spark.md",
+    "Pasted image 20250525182620.png",
+    "Pasted image 20250525181853.png",
+    "Pasted image 20250525181513.png",
+    "Pasted image 20250525181937.png",
+    "Pasted image 20250525182645.png",
+    "DSBDA/All units.canvas",
+    "DSBDA/unit 3/Unit 3.canvas",
+    "Pasted image 20250525163236.png",
+    "DSBDA/unit 6/notes/Hive.md",
+    "DSBDA/unit 6/notes/Map Reduce.md",
+    "DSBDA/unit 6/notes/Hadoop Ecosystem.md",
+    "DSBDA/unit 6/notes/Hadoop Architecture.md",
+    "DSBDA/unit 6/notes/HDFS.md",
+    "DSBDA/unit 6/notes/Pig.md",
+    "DSBDA/unit 6/notes/Pig vs Hive.md",
+    "DSBDA/unit 6/notes",
+    "Pasted image 20250525163048.png",
+    "DSBDA/unit 6/Hadoop Ecosystem.md",
+    "DSBDA/unit 5/AUC-ROC curve.md",
+    "DSBDA/unit 5/Confusion Matrix.md",
+    "DSBDA/unit 5/Density based clustering.md",
+    "DSBDA/unit 5/Hierarchical Clustering.md",
+    "DSBDA/unit 5/types of clustering.md",
+    "DSBDA/unit 5/Time series analysis.md",
+    "DSBDA/unit 5/K-means clustering.md",
+    "DSBDA/Clustering.md",
+    "DSBDA/unit 4/Logistic Regression.md",
+    "DSBDA/unit 4/Types of Analysis.md"
   ]
 }

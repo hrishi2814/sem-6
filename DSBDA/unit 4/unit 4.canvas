@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a8dea98b1c5e6c95","type":"file","file":"DSBDA/unit 4/Linear Regression.md","x":-1040,"y":-279,"width":771,"height":618},
+		{"id":"dd2f2e8231baa0af","type":"file","file":"DSBDA/unit 4/Logistic Regression.md","x":119,"y":-279,"width":602,"height":500},
+		{"id":"a032dedc516328f2","type":"file","file":"DSBDA/unit 4/Naive Bayes Classifier.md","x":420,"y":576,"width":681,"height":400},
+		{"id":"7632f2172b5ca782","type":"file","file":"DSBDA/unit 4/Apriori Algorithm.md","x":-2640,"y":-279,"width":720,"height":618},
+		{"id":"1b51c7f4e63e15dc","type":"file","file":"DSBDA/unit 4/Types of Analysis.md","x":-1054,"y":-1520,"width":400,"height":720},
+		{"id":"c83ebe03eeb11e4a","type":"file","file":"DSBDA/unit 4/Decision Trees.md","x":-2280,"y":-1120,"width":736,"height":694}
+	],
+	"edges":[
+		{"id":"78e9f925a7fe2076","fromNode":"dd2f2e8231baa0af","fromSide":"bottom","toNode":"a032dedc516328f2","toSide":"top"}
+	]
+}

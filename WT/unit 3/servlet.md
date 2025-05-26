@@ -18,7 +18,6 @@ The servlet life cycle consists of three main methods defined by the `javax.serv
 |Initialization|`init(ServletConfig)`|Called once when the servlet is created. Used for initialization (e.g., DB connection).|
 |Request Handling|`service(ServletRequest, ServletResponse)`|Called every time a request comes in. Handles client requests and generates responses.|
 |Destruction|`destroy()`|Called once when the servlet is taken out of service. Used for cleanup work.|
-![[Pasted image 20250504151347.png]]
 
 ---
 
@@ -84,10 +83,25 @@ The servlet life cycle consists of three main methods defined by the `javax.serv
 Example:
 
 ```java
-@WebServlet("/hello")
-public class HelloServlet extends HttpServlet {
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
-        response.getWriter().println("Hello, World!");
+import java.io.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
+
+// Extend HttpServlet
+public class HelloWorldServlet extends HttpServlet {
+
+    // This method handles GET requests
+    public void doGet(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+
+        // Set response content type
+        response.setContentType("text/html");
+
+        // Write response
+        PrintWriter out = response.getWriter();
+        out.println("<html><body>");
+        out.println("<h1>Hello, World from Servlet!</h1>");
+        out.println("</body></html>");
     }
 }
 ```

@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"3c7c47954a37f6d6","type":"file","file":"DSBDA/unit 6/question answer - apache spark.md","x":3280,"y":-1676,"width":1760,"height":956,"color":"2"},
+		{"id":"05c578fd9ca45a29","type":"text","text":"# Hadoop","x":-124,"y":-187,"width":250,"height":60,"color":"4"},
+		{"id":"7fd1323e57c44832","type":"file","file":"DSBDA/unit 6/notes/Hadoop Ecosystem.md","x":-380,"y":-40,"width":400,"height":400,"color":"4"},
+		{"id":"319c3cd806bb2017","type":"file","file":"Pasted image 20250525162952.png","x":126,"y":-20,"width":400,"height":193},
+		{"id":"dc179cce1896fdd5","type":"file","file":"Pasted image 20250525163048.png","x":360,"y":280,"width":540,"height":2264},
+		{"id":"ba7099aa4ee68c4a","type":"file","file":"DSBDA/unit 6/notes/HDFS.md","x":1173,"y":-253,"width":827,"height":813,"color":"4"},
+		{"id":"a90cccd2a7bcef6d","type":"text","text":"# Map Reduce","x":-1280,"y":-361,"width":355,"height":108,"color":"6"},
+		{"id":"fbb1db999c4c5072","type":"file","file":"DSBDA/unit 6/notes/Map Reduce.md","x":-1505,"y":154,"width":580,"height":340,"color":"6"},
+		{"id":"01ad7dbf31f5d594","type":"text","text":"# Pig , Hive\n","x":-1327,"y":1095,"width":250,"height":60,"color":"3"},
+		{"id":"ee783da6c34fc50f","type":"file","file":"DSBDA/unit 6/notes/Pig.md","x":-1602,"y":1220,"width":400,"height":400,"color":"3"},
+		{"id":"ed44c53d19f1fb1a","type":"file","file":"DSBDA/unit 6/notes/Hive.md","x":-1120,"y":1220,"width":440,"height":400,"color":"3"},
+		{"id":"0fc6ea28dd71785b","type":"text","text":"# Pig vs Hive","x":-1331,"y":1726,"width":311,"height":60,"color":"2"},
+		{"id":"b757cc49b06665af","type":"file","file":"DSBDA/unit 6/notes/Pig vs Hive.md","x":-1375,"y":1880,"width":400,"height":500,"color":"2"},
+		{"id":"d1b4530526680953","type":"file","file":"Pasted image 20250525181513.png","x":-925,"y":-2560,"width":516,"height":1228},
+		{"id":"81fa016669e12b78","type":"file","file":"Pasted image 20250525181713.png","x":1,"y":-2560,"width":618,"height":809,"color":"4"},
+		{"id":"705a271a1937e1e0","type":"text","text":"# Data Visualization","x":-354,"y":-3064,"width":454,"height":60,"color":"5"},
+		{"id":"bdfc1c695548e6d0","type":"file","file":"Pasted image 20250525182620.png","x":3358,"y":-2305,"width":1314,"height":185}
+	],
+	"edges":[
+		{"id":"23b032da0dfa9ace","fromNode":"05c578fd9ca45a29","fromSide":"bottom","toNode":"7fd1323e57c44832","toSide":"top"},
+		{"id":"f463b4741b5b6a0f","fromNode":"05c578fd9ca45a29","fromSide":"bottom","toNode":"319c3cd806bb2017","toSide":"top"},
+		{"id":"40efd17c7f453cc7","fromNode":"319c3cd806bb2017","fromSide":"bottom","toNode":"dc179cce1896fdd5","toSide":"top"},
+		{"id":"2ff84091d2445015","fromNode":"05c578fd9ca45a29","fromSide":"right","toNode":"ba7099aa4ee68c4a","toSide":"left"},
+		{"id":"b2b7c73f34319a88","fromNode":"a90cccd2a7bcef6d","fromSide":"bottom","toNode":"fbb1db999c4c5072","toSide":"top"},
+		{"id":"9db3e4c26080d457","fromNode":"01ad7dbf31f5d594","fromSide":"bottom","toNode":"ee783da6c34fc50f","toSide":"top"},
+		{"id":"f85eadc8fc7480a7","fromNode":"01ad7dbf31f5d594","fromSide":"bottom","toNode":"ed44c53d19f1fb1a","toSide":"top"},
+		{"id":"9043ab2a0534db0f","fromNode":"0fc6ea28dd71785b","fromSide":"bottom","toNode":"b757cc49b06665af","toSide":"top"},
+		{"id":"e349865877758532","fromNode":"705a271a1937e1e0","fromSide":"bottom","toNode":"d1b4530526680953","toSide":"top"},
+		{"id":"1b208f71c281dd20","fromNode":"705a271a1937e1e0","fromSide":"bottom","toNode":"81fa016669e12b78","toSide":"top"},
+		{"id":"fe35cd05b61762e1","fromNode":"bdfc1c695548e6d0","fromSide":"bottom","toNode":"3c7c47954a37f6d6","toSide":"top"}
+	]
+}
