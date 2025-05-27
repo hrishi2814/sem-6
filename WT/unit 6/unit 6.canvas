@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"7ef6fda8dd43077f","type":"text","text":"# EJB Architecture","x":-533,"y":327,"width":313,"height":60},
+		{"id":"d702fa7e76a0e423","type":"file","file":"WT/unit 6/Ejb.md","x":-60,"y":-400,"width":400,"height":400},
+		{"id":"15eee93a6e11ae78","type":"text","text":"# Types of EJBs","x":686,"y":338,"width":250,"height":60},
+		{"id":"910e248878377567","type":"file","file":"WT/unit 6/ejb architecture and types.md","x":-576,"y":560,"width":400,"height":332},
+		{"id":"a4e878f0ac128fea","x":1320,"y":680,"width":400,"height":212,"type":"file","file":"Pasted image 20250527132720.png"},
+		{"id":"785d501b59dee197","x":21,"y":560,"width":579,"height":280,"type":"file","file":"Pasted image 20250527132828.png"},
+		{"id":"4ef28e56a5e6f8df","x":676,"y":560,"width":520,"height":520,"type":"file","file":"WT/unit 6/Types of EJBs.md"},
+		{"id":"e6285658342ad6fb","x":2720,"y":-360,"width":640,"height":520,"type":"file","file":"WT/unit 6/ruby basic.md"},
+		{"id":"65241e31381ade63","x":2240,"y":-160,"width":400,"height":224,"type":"file","file":"Pasted image 20250527133020.png"},
+		{"id":"8d282769187db628","x":2683,"y":-761,"width":250,"height":60,"type":"text","text":"# Ruby "},
+		{"id":"3c823d09a0029ac1","x":3551,"y":-380,"width":489,"height":500,"type":"file","file":"WT/unit 6/ruby methods.md"}
+	],
+	"edges":[
+		{"id":"dd70506c7f1ddea6","fromNode":"7ef6fda8dd43077f","fromSide":"bottom","toNode":"910e248878377567","toSide":"top"},
+		{"id":"48de8689fb30f8f7","fromNode":"d702fa7e76a0e423","fromSide":"bottom","toNode":"7ef6fda8dd43077f","toSide":"top"},
+		{"id":"87aa05f4d90cbc6b","fromNode":"d702fa7e76a0e423","fromSide":"bottom","toNode":"15eee93a6e11ae78","toSide":"top"},
+		{"id":"4e83b0a215819c71","fromNode":"15eee93a6e11ae78","fromSide":"bottom","toNode":"4ef28e56a5e6f8df","toSide":"top"},
+		{"id":"ae5c4c8d0a31a3e9","fromNode":"15eee93a6e11ae78","fromSide":"bottom","toNode":"a4e878f0ac128fea","toSide":"top"},
+		{"id":"fbcd33071f8e7f82","fromNode":"15eee93a6e11ae78","fromSide":"bottom","toNode":"785d501b59dee197","toSide":"top"},
+		{"id":"1ad2aed59182ad47","fromNode":"8d282769187db628","fromSide":"bottom","toNode":"e6285658342ad6fb","toSide":"top"},
+		{"id":"306020b18c2eecfe","fromNode":"8d282769187db628","fromSide":"bottom","toNode":"65241e31381ade63","toSide":"top"},
+		{"id":"6a97e579030cacf0","fromNode":"8d282769187db628","fromSide":"bottom","toNode":"3c823d09a0029ac1","toSide":"top"}
+	]
+}

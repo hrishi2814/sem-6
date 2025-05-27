@@ -13,6 +13,7 @@
 ---
 
 ## **2. Core Components of Struts**
+![[Pasted image 20250527195252.png]]
 ### **1. Model**
 - Represents **business logic & data** (POJOs, JavaBeans, DAO, Services).
 - Example:
